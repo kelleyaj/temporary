@@ -1,0 +1,20 @@
+Directories
+    Linux uses a tree structure to organize directories
+    directories generally house specific types of files
+    users have their own directory under the /usr or /home directory
+    directories act just like any other file EXCEPT that they can contain files
+    . refers to the current directory while .. refers to the parent directory
+
+Files
+    all files have certain permissions. when you use the [ls -l] command, you will see      
+        something like drwxr-sr-x before each file. this shows the permissions currently set on           
+        that file.
+    case matters when naming files
+    there are several ways to create a new file
+
+Useful commands (note that most commands have OPTIONS or SWITCHES that effect their behavior)
+    man show the manpage for a command
+    pwd shows current directory
+    cd changes directory
+    ls lists files in a directory
+    mv moves or renames a file
